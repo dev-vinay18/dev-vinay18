@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Hi there, I’m Vinay! 👋<br><br>🚀 Aspiring Software Engineer | Computer Science Enthusiast<br>🎓 3rd Year Computer Science Engineering Student<br>💻 Passionate about Web Development, Problem Solving, and Open Source <br><br>📚 Currently Learning<br><br>	•	Frontend Development (css,js)<br>	•	c++,c<br>	•	Competitive Programming<br><br>🌱 Eager to learn, grow, and contribute to meaningful projects.<br>⚡ Let’s build something amazing together!
+🧑‍💻 Hi there, I’m Vinay! 👋<br><br>🚀 Aspiring Software Engineer | Computer Science Enthusiast<br>🎓 Computer Science Engineering Student<br>💻 Passionate about Web Development, Problem Solving, and Open Source <br><br>📚 Currently Learning<br><br>	•	Frontend Development (css,js)<br>	•	c++,c<br>	•	Competitive Programming<br><br>🌱 Eager to learn, grow, and contribute to meaningful projects.<br>⚡ Let’s build something amazing together!
 
 
 ## 🌐 Socials:
